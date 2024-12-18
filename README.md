@@ -146,6 +146,6 @@ export default cartSlice.reducer;
 
 ## <a name="links">🔗 Links</a>
 
-🔗🔍🌍 - [Live Demo](https://nike-store-clone.example.com)
-- [GitHub Repository](https://github.com/your-username/nike-store-clone)
+🔗🔍🌍 - [Live Demo](https://nike-clone-website-six.vercel.app/)
+
 
